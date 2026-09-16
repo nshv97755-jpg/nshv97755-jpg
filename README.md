@@ -1,59 +1,127 @@
 # Hi, I'm Shivam Kumar 👋
 
-BCA Student | Aspiring Software Developer, focused on Python & backend development 🐍
-Building projects and learning daily 🚀
+### BCA Student | Aspiring Full-Stack Developer | Python & Backend Development
 
-- 📍 India
-- 📧 nshv97755@gmail.com
+I'm a BCA student interested in building real-world applications and understanding how things work behind the scenes.
+
+Currently focusing on **Python, backend development, APIs, databases, and full-stack development**.
+
 - 🎓 Currently pursuing BCA
-- 🌱 Currently deepening my skills in Python, backend development, and databases
-- 👀 Open to collaborating on beginner/intermediate backend or full-stack projects
+- 🇮🇳 India
+- 🐍 Learning Python & backend development
+- 🔌 Exploring REST APIs and server-side logic
+- 🗄️ Learning SQL, PostgreSQL and database design
+- 📚 Practicing Data Structures & Algorithms
+- 🚀 Building projects while learning
+- 🤝 Open to collaborating on interesting projects
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend & Database**
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Currently Learning**
-- Backend fundamentals (APIs, databases, server-side logic)
-- Writing cleaner, better-documented code
+### Backend & Database
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 📚 Currently Learning
 
-- **[growthspark-path](https://github.com/nshv97755-jpg/growthspark-path)** — A full-stack web app built with React 19, TanStack Start/Router, and Supabase. Includes form validation, multi-language support (i18next), and data visualization with Recharts. [Live demo →](https://growthspark-path.vercel.app)
-
-- **[kk-marble-website](https://github.com/nshv97755-jpg/kk-marble-website)** — A business website for a marble polishing service with a Python backend that captures inquiry form submissions and a full admin panel (search/filter leads, update status, export CSV).
-
-- **[Spiderman-game-](https://github.com/nshv97755-jpg/Spiderman-game-)** — A browser-based game built with AI assistance from my own concept. [Play it →](https://spiderman-game-psi.vercel.app)
-
----
-
-### 📊 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshv97755-jpg&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshv97755-jpg&layout=compact)
+- Python backend development
+- REST APIs
+- SQL & database fundamentals
+- Server-side logic
+- Data Structures & Algorithms
+- Writing clean and maintainable code
 
 ---
 
-### 📫 Reach Out
+## 🚀 Featured Projects
 
-Feel free to email me at **nshv97755@gmail.com** — always open to feedback, collaboration, or a chat about backend dev!
+### 📊 GrowthPilot
+
+A full-stack social media profile analysis application built with React, TypeScript and Supabase.
+
+**What it does:**
+- Profile analysis
+- Growth insights
+- Issue detection
+- Report history
+- Data visualization
+- User authentication and data management
+
+**Tech:** React • TypeScript • Supabase
+
+---
+
+### 🏠 KK Marble Polishing Website
+
+A real-world business website built for a marble polishing service.
+
+**Features:**
+- Service information
+- Customer inquiry form
+- Lead management
+- Admin dashboard
+- Search & filtering
+- Status management
+- CSV export
+
+**Tech:** HTML • CSS • Python • Database
+
+---
+
+### 🕷️ Spiderman Game
+
+A browser-based game created as a learning project while exploring web development and interactive interfaces.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🎯 My Current Goal
+
+I'm working towards becoming a strong **full-stack developer**, with a particular interest in **Python backend development, APIs, databases and real-world applications**.
+
+I prefer learning by building projects and solving problems rather than only studying theory.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nshv97755-jpg&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nshv97755-jpg&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+
+- Collaboration on projects
+- Learning opportunities
+- Beginner-friendly open-source contributions
+- Discussing software development
+
+📧 **Email:** nshv97755@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+*Building. Learning. Improving. One project at a time.*
 
 
 
